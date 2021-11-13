@@ -1,0 +1,13 @@
+/* Main */
+@import "main/fonts";
+@import "mixins/media";
+@import "main/main";
+@import "main/header";
+@import "main/footer";
+
+/* Blocks */
+@import "blocks/bem-block";
+
+/* Index Page */
+@import "includes/index/hero";
+@import "includes/index/about";
